@@ -1,4 +1,4 @@
-# techerita
+# techarita
 
 A new Flutter project.
 
